@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heroku.WebAPI", "Heroku.WebAPI\Heroku.WebAPI.csproj", "{A0292058-A296-486D-8769-B58F8F253D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0292058-A296-486D-8769-B58F8F253D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0292058-A296-486D-8769-B58F8F253D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0292058-A296-486D-8769-B58F8F253D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0292058-A296-486D-8769-B58F8F253D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435304D7-8084-493E-9BBF-F6CEED83B4BF}
+	EndGlobalSection
+EndGlobal
